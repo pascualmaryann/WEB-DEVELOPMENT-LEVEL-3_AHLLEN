@@ -1,0 +1,30 @@
+.main-header {
+  background: url(pexels-aden-ardenrich-581344.jpg);
+  min-height: 600px;  
+   background-position: right;
+   background-size: cover;
+   color: white;
+}
+
+.main-header .showcase {
+  padding: 100px;
+}
+
+.section-developer {
+  position: relative;
+  background: url(../images/pexels-mikotoraw-3769099.jpg);
+  background-size: cover;
+  border-top: #000000 solid 5px;
+  border-bottom: #000000 solid 5px;
+  min-height: 180px;
+}
+
+.primary-overlay {
+ background: rgba(112,  81, 176, 0.7) ;
+ position: absolute; 
+ top: 0;
+ height: 100%;
+ left: 0;
+ width: 100%;
+
+}
